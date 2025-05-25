@@ -162,3 +162,5 @@
 <li><a href="https://payment.ipaynow.cn/" rel="nofollow">现在支付</a> 银行背景，暂时未看到有付费的限制，用自己的审核体系，代替了银联等机构的审核</li>
 </ul>
 <p>备注: 最近百度上线<a href="http://apistore.baidu.com/" rel="nofollow">API Store</a>服务，整合了各种方便开发者的免费和付费服务.</p>
+<p>备注: 内容集成自多个github源.包括：https://github.com/vincenthou/free-for-china-dev</p>
+
