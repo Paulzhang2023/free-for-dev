@@ -1,17 +1,12 @@
 # free-for.dev 开发者免费资源集锦
 
-开发人员和开源作者现在有许多提供免费套餐的服务，但找到所有服务需要时间才能做出明智的决定。
-
-这是软件（SaaS、PaaS、IaaS 等）和其他具有免费开发人员层的产品的列表。
+开发人员和开源作者现在有许多提供免费套餐的服务，但找到所有服务需要时间才能做出明智的决定。这是软件（SaaS、PaaS、IaaS 等）和其他具有免费开发人员层的产品的列表。
 
 此列表的范围仅限于基础设施开发人员（系统管理员、DevOps 从业者等）可能觉得有用的内容。我们喜欢所有免费的服务，但最好保持主题的连贯性。有时情况比较复杂，所以这只是我的个人观点；如果我没有接受您的贡献，请不要感到被冒犯。
 
-This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
-
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 **内容来自** https://free-for.dev/ 
 
-**中文免费资源见** https://github.com/Paulzhang2023/free-for-dev/blob/master/Readme-zh.md
+**中文免费资源** https://github.com/Paulzhang2023/free-for-dev/blob/master/Readme-zh.md
 
 **注意**：此列表仅适用于即服务产品，不适用于自托管软件。要符合条件，服务必须提供免费套餐，而不仅仅是免费试用。如果是分时段使用，免费套餐的有效期必须至少为一年。我们也会从安全角度考虑免费套餐，因此单点登录 (SSO) 是可以接受的，但我不会接受将 TLS 限制为仅付费套餐的服务。
 
