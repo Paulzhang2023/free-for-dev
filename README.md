@@ -1,16 +1,17 @@
 # free-for.dev
 
-Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
+开发人员和开源作者现在有许多提供免费套餐的服务，但找到所有服务需要时间才能做出明智的决定。
 
-This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
+这是软件（SaaS、PaaS、IaaS 等）和其他具有免费开发人员层的产品的列表。
 
-The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
+此列表的范围仅限于基础设施开发人员（系统管理员、DevOps 从业者等）可能觉得有用的内容。我们喜欢所有免费的服务，但最好保持主题的连贯性。有时情况比较复杂，所以这只是我的个人观点；如果我没有接受您的贡献，请不要感到被冒犯。
 
+此列表源自 1600 多人的拉取请求、评论、想法和工作成果。您也可以通过发送拉取请求来帮助我们添加更多服务，或移除已变更或已停用的服务。
 This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
-**NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
+**注意**：此列表仅适用于即服务产品，不适用于自托管软件。要符合条件，服务必须提供免费套餐，而不仅仅是免费试用。如果是分时段使用，免费套餐的有效期必须至少为一年。我们也会从安全角度考虑免费套餐，因此单点登录 (SSO) 是可以接受的，但我不会接受将 TLS 限制为仅付费套餐的服务。
 
 <div class="markdown-heading" dir="auto">
 <p>目录</p>
